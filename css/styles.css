@@ -35,6 +35,7 @@
 .photo-grid-container {
   display: flex;
   justify-content: center;
+  background-color: lightgray;
 }
 
 .photo-grid {
@@ -51,4 +52,12 @@
   border: 1px solid #fff;
   width: 300px;
   height: 300px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  background-color: whitesmoke;  /* Blue */
+  padding: 10px 0;
 }
