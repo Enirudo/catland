@@ -135,3 +135,15 @@ a {
   text-align: right;
   margin: 5px 0;
 }
+
+button {
+  border: solid 1px black;
+  border-radius: 5px;
+  padding: 10px 20px;
+  background-color: whitesmoke;
+  color: black;
+  font-size: 16px;
+  cursor: pointer; 
+  display: flex;
+  margin: 25px 0;
+}
