@@ -110,10 +110,10 @@ body {
 }
 
 .author {
-  text-align: right;
+  tdisplay: flex;
   font-size: 14px;
-  color: black;
-  margin-top: 10px;
+  color: white;
+  font-weight: bold;
 }
 
 .credit {
