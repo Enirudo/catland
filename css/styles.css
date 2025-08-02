@@ -22,7 +22,7 @@ body {
   padding: 10px;
 }
 
-.header-container {
+.container {
   background-color: gray;
   display: flex;
   justify-content: center;
@@ -61,7 +61,7 @@ body {
   background-image: url('../img/14710.jpg');
   background-size: cover;
   background-position: center;
-  padding: 24px;
+  padding: 48px;
 }
 
 .photo-grid {
@@ -107,6 +107,13 @@ body {
   align-items: center;
   background-color: whitesmoke;
   padding: 10px 0;
+}
+
+.author {
+  text-align: right;
+  font-size: 14px;
+  color: black;
+  margin-top: 10px;
 }
 
 .credit {
