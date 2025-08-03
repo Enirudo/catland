@@ -124,6 +124,18 @@
   margin-left: 20px;
 }
 
+.subscribe-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: lightpink;
+  padding: 20px;
+  border: solid 1px lightgray;
+  border-radius: 10px;
+  margin: 20px auto;
+  max-width: 900px;
+}
+
 a {
   color: black;
   font-size: 10px;
