@@ -77,6 +77,12 @@ button {
   font-weight: bold;
 }
 
+.menu-links {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+}
+
 .container {
   display: flex;
   justify-content: center;
