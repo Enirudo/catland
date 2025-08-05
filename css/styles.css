@@ -9,7 +9,8 @@ div {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 48px;
+  font-weight: 900;
   color: black;
   text-align: center;
   margin: 20px 0;
@@ -72,7 +73,7 @@ button {
 .menu-item {
   display: flex;
   align-items: center;
-  font-size: 16px;
+  font-size: 24px;
   font-weight: bold;
 }
 
@@ -173,15 +174,32 @@ button {
 
 .author {
   display: flex;
-  font-size: 14px;
-  color: white;
-  font-weight: bold;
+  font-size: 24px;
+  color: black;
+  font-style: italic;
+  margin: 10px 0;
+  align-self: flex-end;
 }
 
 .credit {
   text-align: right;
   display: block;
   margin-top: 20px;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  font-size: 36px;
+  background-color: gray;
+  color: whitesmoke;
+  /* text-align: right; */
+  margin: 20px 0;
+  padding: 48px;
+  font-style: italic;
+  font-weight: lighter;
 }
 
 .social-icons {
