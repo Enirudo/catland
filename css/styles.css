@@ -51,7 +51,7 @@ button {
   background-color: whitesmoke;
   color: black;
   font-size: 16px;
-  cursor: pointer; 
+  cursor: pointer;
   display: flex;
   margin: 25px 0;
 }
@@ -107,7 +107,7 @@ button {
   max-height: 250px;
 }
 
-.header-image{
+.header-image {
   display: flex;
   /* border: 1px solid lightgray; */
   max-width: 300px;
@@ -138,7 +138,7 @@ button {
   align-items: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  gap: 20px;  
+  gap: 20px;
   width: 100%;
 }
 
@@ -172,7 +172,7 @@ button {
 
 .footer {
   display: flex;
-  justify-content: center;  
+  justify-content: center;
   align-items: center;
   background-color: whitesmoke;
   padding: 10px 0;
