@@ -77,6 +77,16 @@ button {
   font-weight: bold;
 }
 
+.menu-item img {
+  display: flex;
+  justify-content: flex-start;
+  border: solid 1px gray;
+  max-width: 100px;
+  max-height: 100px;
+  min-width: 50px;
+  min-height: 50px;
+}
+
 .menu-links {
   display: flex;
   justify-content: flex-end;
